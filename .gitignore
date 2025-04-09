@@ -3,3 +3,4 @@
 **/*.html
 **/*.json
 **/langchain_chroma_db
+.venv
